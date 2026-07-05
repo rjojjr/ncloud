@@ -2,12 +2,13 @@
 
 ![nCloud Icon](./icon.jpg)
 
-nCloud is a closed-source homebrew Nextcloud client for the Nintendo Switch that allows users to browse, download and install files from a remote Nextcloud instance.
+nCloud is a closed-source homebrew Nextcloud client for the Nintendo Switch that allows Switch users to browse, download, upload and install files to/from a remote Nextcloud instance.
 
 ## Features
 
 - Browse remote Nextcloud files
 - Download files
+- Upload files from SD card
 - Install `.nsp` & `.xci` files
 
 ## No Warranty and Limitation of Liability
