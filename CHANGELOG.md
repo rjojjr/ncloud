@@ -4,6 +4,7 @@
 
 - optimize install/download for increased speed
 - tweak install `.nsp` & `.xci` files UI/dialogs to be more intuitive
+- enable touch input
 
 ## v1.0.1
 
