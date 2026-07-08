@@ -3,7 +3,7 @@
 ## v1.1.0
 
 - optimize install/download for increased speed
-- tweak install `.nsp` & `.xci` UI to be more intuitive
+- tweak install `.nsp` & `.xci` files UI/dialogs to be more intuitive
 
 ## v1.0.1
 
