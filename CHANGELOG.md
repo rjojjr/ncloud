@@ -3,6 +3,7 @@
 ## v1.1.1
 
 - fix toggle stream install of `.nsp` & `.xci` files
+- flatten persisted directories when downloading files
 
 ## v1.1.0
 
