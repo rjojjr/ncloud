@@ -1,5 +1,9 @@
 # nCloud Changelog
 
+## v1.1.1
+
+- fix toggle stream install of `.nsp` & `.xci` files
+
 ## v1.1.0
 
 - optimize install/download for increased speed
