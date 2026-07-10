@@ -4,6 +4,7 @@
 
 - fix toggle stream install of `.nsp` & `.xci` files
 - flatten persisted directories when downloading files
+- optimize stream install `.nsp` & `.xci` files for increased speed
 
 ## v1.1.0
 
