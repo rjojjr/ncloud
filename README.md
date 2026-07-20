@@ -1,6 +1,6 @@
 # nCloud — Nintendo Switch Homebrew Nextcloud Client (NSP/XCI Installer)
 
-![nCloud — Nintendo Switch homebrew Nextcloud client for downloading, uploading, and installing NSP and XCI files](./icon.jpg)
+![nCloud — Nintendo Switch homebrew Nextcloud client for downloading, uploading, and installing NSP and XCI files](./banner.png)
 
 **nCloud** is a homebrew [Nextcloud](https://nextcloud.com/) client for the **Nintendo Switch**. It lets you browse, download, upload, and install files directly to your Switch from your own self-hosted Nextcloud server — a private, cloud-based alternative to sideloading over USB or copying files back and forth from your SD card.
 
